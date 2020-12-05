@@ -33,5 +33,5 @@
 - Социальная инженерия
 
 Меры профилактики. 
-
-![](file:///C:/Users/mr_se/OneDrive/Документы/ProКибербезопасность/ProКибербезопасность.png)
+![all text] [image]
+[image]: file:///C:/Users/mr_se/OneDrive/Документы/ProКибербезопасность/ProКибербезопасность.png
